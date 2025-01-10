@@ -1,1 +1,1 @@
-https://raw.githubusercontent.com/kongratana21/vdCon/d8f7c93f10ac6551de83d1a333bb387c8c5160fb/VideoConverterPro_v25.01.05.zip
+https://github.com/kongratana21/vdCon/blob/1f8315c40d17d8b48a7ed37fdf7a3d6d6567e5a1/VideoConverterPro_v25.01.05.zip?raw=true
