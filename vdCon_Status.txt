@@ -1,5 +1,5 @@
  * What's new
-   + Add Bug fixes button in Utilities
+   + Update Conditions
    + Remember the last option changed
    + Fix format video to mp3
    + Fix something error
