@@ -1,5 +1,7 @@
  * What's new
-   + Update Conditions
-   + Remember the last option changed
-   + Fix format video to mp3
+   + Show new version when available
+   + Indicates whether it is possible to remove the device?
+   + Update option Video Filter
+   + Update option Audio Filter
+   + Add option Color Correction
    + Fix something error
