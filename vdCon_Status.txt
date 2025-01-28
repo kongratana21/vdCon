@@ -1,7 +1,4 @@
  * What's new
-   + Show new version when available
-   + Indicates whether it is possible to remove the device?
-   + Update option Video Filter
-   + Update option Audio Filter
-   + Add option Color Correction
+   + Check license key for this tool or not.
+   + Add 40 new Khmer font
    + Fix something error
