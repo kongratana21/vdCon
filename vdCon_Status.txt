@@ -1,4 +1,4 @@
  * What's new
-   + Check license key for this tool or not.
-   + Add 40 new Khmer font
+   + Check the license key for this tool or not.
+   + Add 40 new Khmer fonts.
    + Fix something error
