@@ -1,5 +1,5 @@
  * What's new
+   + Add forget secret word.
    + Add new Preview video.
-   + Add new convert Image to ICO
    + Add new input webm.
    + Fix something error
