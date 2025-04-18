@@ -1,5 +1,8 @@
  * What's new
-   + Add forget secret word.
-   + Add new Preview video.
-   + Add new input webm.
+   + Add Translate File Names (194 Language).
+   + Add new option, Delete and add new copyright information or metadata information.
+   + Fix any error in Video Converter.
+   + Fix and add new option in Combine video.
+   + Fix error in Create Thumbnail.
+   + Save all last changed options.
    + Fix something error
