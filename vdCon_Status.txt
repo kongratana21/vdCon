@@ -1,5 +1,5 @@
  * What's new
-   + Add Translate File Names (194 Language).
+   + Add Translate File Names and Text file (194 Language).
    + Add new option, Delete and add new copyright information or metadata information.
    + Fix any error in Video Converter.
    + Fix and add new option in Combine video.
