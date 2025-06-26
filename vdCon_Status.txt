@@ -1,4 +1,8 @@
  * What's new
-   + Show all video input the same resolution or mismatch resolution
-   + Easy to Combine video
+   + Add Preview shortcut keys to Utilities
+   + Add Custom split text
+   + Add episode to Text watermark
+   + Add 2nd media watermark
+   + Add Save, Delete, Update setting
+   + Update Metadata(Create Time, Track to Random or Custom)
    + Fix something error
