@@ -1,8 +1,14 @@
  * What's new
-   + Add Preview shortcut keys to Utilities
+   + Add Blur background
    + Add Custom split text
-   + Add episode to Text watermark
-   + Add 2nd media watermark
+   + Add Preview shortcut keys to Utilities
+   + Add Scale +border
    + Add Save, Delete, Update setting
+   + Add 2nd media watermark
+   + Update Episode with English numbers or Khmer numbers
+   + Update Add border Top, Bottom, Left, Right position
+   + Update Crop video Top, Bottom, Left, Right position
    + Update Metadata(Create Time, Track to Random or Custom)
+   + Update Combine video
+   + Update Create thumbnail
    + Fix something error
