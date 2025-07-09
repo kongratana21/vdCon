@@ -1,14 +1,15 @@
  * What's new
-   + Add Blur background
+   + Add Blur background with new effects
    + Add Custom split text
    + Add Preview shortcut keys to Utilities
    + Add Scale +border
    + Add Save, Delete, Update setting
    + Add 2nd media watermark
+   + Move Reset setting into Utilities
    + Update Episode with English numbers or Khmer numbers
    + Update Add border Top, Bottom, Left, Right position
    + Update Crop video Top, Bottom, Left, Right position
    + Update Metadata(Create Time, Track to Random or Custom)
-   + Update Combine video
+   + Update Trim start into Combine video
    + Update Create thumbnail
    + Fix something error
