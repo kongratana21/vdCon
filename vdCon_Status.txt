@@ -1,10 +1,15 @@
  * What's new
+   + Add Watermark text Box
+   + Add Text Watermark or Paragraph Watermark
+   + Add button Maximize and Restore
    + Add Blur background with new effects
    + Add Custom split text
    + Add Preview shortcut keys to Utilities
    + Add Scale +border
    + Add Save, Delete, Update setting
    + Add 2nd media watermark
+   + Change Episode Checkbox to Dropdown
+   + Change the form size to a smaller size.
    + Move Reset setting into Utilities
    + Update Episode with English numbers or Khmer numbers
    + Update Add border Top, Bottom, Left, Right position
