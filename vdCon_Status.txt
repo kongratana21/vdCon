@@ -1,11 +1,11 @@
 * Releases * 👇
 
 => v25.07.26
-   + Update Split video to be clearer.
    + Add random Watermark Text.
    + Add Install additional fonts.
    + Add Reset font to default.
    + Add right-click to display menu.
+   + Update Split video to be clearer.
    + Update Split a frames from a video.
    + Update Combine frames into video
 
