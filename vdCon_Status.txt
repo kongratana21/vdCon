@@ -1,5 +1,14 @@
 * Releases * 👇
 
+=> v25.08.26
+   + Add Intro/Outro to Video.
+   + Add New option check video without sound.
+   + Add Aspect ratio 9:16, 16:9 to Blur Effect.
+   + Add CPU Threads for Preview video.
+   # Update Combine Video.
+      + Add some features.
+      + Fix something error.
+
 => v25.07.31
    + Update Install additional fonts without restart.
    + Update Reset font to default without restart.
@@ -35,3 +44,4 @@
    + Update Trim start into Combine video.
    + Update Create thumbnail.
    + Fix something error.
+
