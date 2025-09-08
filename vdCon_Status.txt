@@ -1,5 +1,10 @@
 * Releases * 👇
 
+=> v25.09.09
+   + Add Image Cropper.
+   + Add Image Upscaler.
+   + Fix something error.      
+
 => v25.08.26
    + Add Intro/Outro to Video.
    + Add New option check video without sound.
@@ -44,4 +49,5 @@
    + Update Trim start into Combine video.
    + Update Create thumbnail.
    + Fix something error.
+
 
